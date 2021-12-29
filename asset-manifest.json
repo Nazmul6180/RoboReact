@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/RoboReact/static/css/main.a1ed4495.css",
+    "main.js": "/RoboReact/static/js/main.b1c206e1.js",
+    "static/js/787.3b7ae15d.chunk.js": "/RoboReact/static/js/787.3b7ae15d.chunk.js",
+    "static/media/SEGA.woff": "/RoboReact/static/media/SEGA.47b4bfa94ef243af4a5b.woff",
+    "index.html": "/RoboReact/index.html",
+    "main.a1ed4495.css.map": "/RoboReact/static/css/main.a1ed4495.css.map",
+    "main.b1c206e1.js.map": "/RoboReact/static/js/main.b1c206e1.js.map",
+    "787.3b7ae15d.chunk.js.map": "/RoboReact/static/js/787.3b7ae15d.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a1ed4495.css",
+    "static/js/main.b1c206e1.js"
+  ]
+}
